@@ -9,7 +9,7 @@ const Bodies = Matter.Bodies;
    world = engine.world;
    ground=new Ground(300,380,600,20);
    box=new Box(300,150,50,100);
-   box1=new Box(300,50,50,50);
+   box1=new Box(320,50,50,50);
  }
  function draw()
  {
